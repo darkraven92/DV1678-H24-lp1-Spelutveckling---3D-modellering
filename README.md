@@ -1,4 +1,4 @@
-# DV1678 H24 lp1 Spelutveckling 3D-modellering
+# DV1678 Spelutveckling 3D-modellering
 
 ## Föreläsningar
 0. [Inlämningsguide](https://file.io/dedrAiCqCWMr)
