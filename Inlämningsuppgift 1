@@ -1,1 +1,22 @@
+Inlämningsuppgift 1.
 
+Modell med egengjord textur.
+
+Första inlämningsuppgiften innebär att skapa ett enkelt hus i Autodesk Maya (Blender går bra men vi avråder då ni får begränsat med hjälp). 
+De krav som ställs för ett godkänt är följande.
+
+1. Mesh i form av ett Hus (Kan vara förhållandevis low-poly, men vill ni göra mycket mer är det ok)
+2. Godtycklig UV-mapp
+3. Minst 1 eget skapad texturer i bildredigeringsprogram. (Alltså ej foto-texturer eller genererade texturer)
+4. Enklare ljussättning
+5. Tre renderade bilder av hus. (i format .jpg/.png)
+
+Det ni ska lämna in här på Canvas blir en zip/rar fil av ert Maya-projekt som ska innehålla er slutgiltiga scene med huset, samt texturfiler.
+Scenefilen ska ligga i mappen scenes.
+Er textur ska ligga i mappen sourceimages.
+
+De renderade bilderna lämnar ni in som separata filer (ej i zipfilen).
+Era filer ska vara döpat med, för och efternamn samt kurskod,
+exempelvis uppgift1.martin.lillqvist.dv1678.zip
+
+För att förtydliga supermycket ni ska lämna in en zip/rar fil med ert projekt, samt tre renderade bilder.
